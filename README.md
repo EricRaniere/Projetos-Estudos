@@ -6,4 +6,17 @@
 
 
 # Projetos-Estudos
-Repositório criado para armazenar projetos e estudos da minha jornada na análise de dados.
+Aqui você encontra os notebooks dos meus projetos na área de Analise de Dados, Data Science.
+
+Projetos:
+Lista de projetos em Jupyter Notebook:
+
+Análise dos Dados do Airbnb para a cidade de Amsterdã: https://bit.ly/3iYof1o
+
+
+Sobre mim:
+Sou Internacionalista e Administrador por formação, hoje tenho como objetivo ter proficiência no uso e manipulação de dados, para poder gerar insights e criar vantagens competitivas nos meus negócios e nas empresas em que atuo.
+
+Graduação em Relações Internacionais pela UCB.
+Pós Graduação em Administração de Empresas pela FGV.
+MBA em Big Data(Data Science) pela FIAP. - Em curso.
