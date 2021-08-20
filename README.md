@@ -18,6 +18,6 @@ Lista de projetos em Jupyter Notebook:
 ### Sobre mim:
 Sou Internacionalista e Administrador por formação, hoje tenho como objetivo ter proficiência no uso e manipulação de dados, para poder gerar insights e criar vantagens competitivas nos meus negócios e nas empresas em que atuo.
 
-Graduação em Relações Internacionais pela UCB.
-Pós Graduação em Administração de Empresas pela FGV.
-MBA em Big Data(Data Science) pela FIAP. - Em curso.
+* Graduação em Relações Internacionais pela UCB.
+* Pós Graduação em Administração de Empresas pela FGV.
+* MBA em Big Data(Data Science) pela FIAP. - Em curso.
