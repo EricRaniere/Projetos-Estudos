@@ -8,13 +8,14 @@
 # Projetos-Estudos
 Aqui você encontra os notebooks dos meus projetos na área de Analise de Dados, Data Science.
 
-Projetos:
+## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-Análise dos Dados do Airbnb para a cidade de Amsterdã: https://bit.ly/3iYof1o
+* **Análise dos Dados do Airbnb para a cidade de Amsterdã: https://bit.ly/3iYof1o
 
+---
 
-Sobre mim:
+### Sobre mim:
 Sou Internacionalista e Administrador por formação, hoje tenho como objetivo ter proficiência no uso e manipulação de dados, para poder gerar insights e criar vantagens competitivas nos meus negócios e nas empresas em que atuo.
 
 Graduação em Relações Internacionais pela UCB.
