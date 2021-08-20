@@ -11,7 +11,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Analise de Dados,
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb para a cidade de Amsterdã: https://bit.ly/3iYof1o
+* Análise dos Dados do Airbnb para a cidade de Amsterdã: https://bit.ly/3iYof1o
 
 ---
 
