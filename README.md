@@ -10,8 +10,9 @@ Aqui você encontra os notebooks dos meus projetos na área de Analise de Dados,
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
-
-* Análise dos Dados do Airbnb para a cidade de Amsterdã: https://bit.ly/38i163y
+### Análise Exploratória de Dados
+* Análise dos Dados do Airbnb para a cidade de Amsterdã: [AnaliseAirbnb](https://github.com/EricRaniere/Projetos-Estudos/blob/main/Projetos/AnaliseAirbnbAmsterdan.ipynb)
+* Análise dos Dados do COVID-19 no Brasil: [AnaliseCovid](https://github.com/EricRaniere/Projetos-Estudos/blob/main/Projetos/AnaliseCOVID19Brasil.ipynb)
 
 ---
 
